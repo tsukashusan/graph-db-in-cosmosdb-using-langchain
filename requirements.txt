@@ -1,0 +1,9 @@
+openai
+gremlinpython
+langchain_community
+langchain_openai
+langchain-core
+nest_asyncio
+python-dotenv
+ipykernel
+async_timeout
